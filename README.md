@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there, I'm Dan
+#### I'm a web developer based in Berlin, Germany.
 
-<!--
-**DanBertrand/DanBertrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###### About me
+:soon: I'm currently looking for a job opportunity as a back-end developer  
+:heart: I'm working with Ruby on Rails for over a year, and I also know how to create a ReactJS app  
+:office: Before I started dreaming about lines of code, I worked as a customer success manager (and had no idea what a commit was).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Tech Stack
++ Ruby on Rails | Rspec | PostgreSQL
++ Javascript ES6 | ReactJS
++ HTML | CSS | Bootstrap
++ Git | VSCode | Docker | Heroku | CircleCI
+
+ :mailbox_with_mail: Reach me on <a href="https://www.linkedin.com/in/charlottefavier/">Linkedin</a>
