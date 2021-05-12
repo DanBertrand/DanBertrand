@@ -5,8 +5,7 @@
 
 ###### About me
 :soon: I'm currently looking for a job opportunity as web developer, preferably frontend.
-:heart: Started to build simple HTML / CSS website a year ago, I jump to another level  
-:office: Before I started dreaming about lines of code, I worked as a customer success manager (and had no idea what a commit was).  
+:heart: Started to build simple HTML / CSS website a year ago, I jump to another level 
 
 ###### Tech Stack
 + Ruby on Rails | Rspec | PostgreSQL
