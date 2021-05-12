@@ -13,5 +13,6 @@
 + Javascript ES6 | ReactJS
 + HTML | CSS | Bootstrap
 + Git | VSCode | Heroku 
++ Three.js
 
- :mailbox_with_mail: Reach me on <a href="https://www.linkedin.com/in/dan-bertrand-03626087">Linkedin</a>
+ :mailbox_with_mail: Reach me on <a href="https://www.linkedin.com/in/Dan--Bertrand">Linkedin</a>
