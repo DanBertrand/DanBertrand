@@ -1,5 +1,4 @@
-### Hello there, I'm Dan
-#### I'm a web developer based in Berlin, Germany.
+### Web developer based in Berlin, Germany.
 
 ---
 
