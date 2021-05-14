@@ -4,8 +4,8 @@
 ---
 
 ###### About me
-:soon: I'm currently looking for a job opportunity as web developer, preferably frontend.
-:heart: Started to build simple HTML / CSS website a year ago, I jump to another level 
+Looking for a job opportunity as web developer, preferably frontend.
+Currently learning Three.js, TypeScript and Docker / Kubernetes
 
 ###### Tech Stack
 + Ruby on Rails | Rspec | PostgreSQL
