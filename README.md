@@ -4,8 +4,7 @@
 
 ###### About me
 + Looking for a job opportunity as web developer, preferably frontend.
-+ Currently learning Three.js, TypeScript and Docker / Kubernetes
-
++ Currently learning TypeScript and Docker 
 ###### Tech Stack
 + Ruby on Rails | Rspec | PostgreSQL
 + Javascript ES6 | ReactJS
