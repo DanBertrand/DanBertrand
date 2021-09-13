@@ -4,7 +4,7 @@
 
 ###### About me
 + Looking for a job opportunity as web developer, preferably frontend.
-+ 
+
 ###### Tech Stack
 + Ruby on Rails | Rspec | PostgreSQL
 + Javascript ES6
