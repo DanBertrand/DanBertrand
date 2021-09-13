@@ -4,11 +4,13 @@
 
 ###### About me
 + Looking for a job opportunity as web developer, preferably frontend.
-+ Currently learning TypeScript and Docker 
++ 
 ###### Tech Stack
 + Ruby on Rails | Rspec | PostgreSQL
-+ Javascript ES6 | ReactJS
-+ HTML | CSS | Bootstrap
++ Javascript ES6
++ React | Redux
++ TypeScript
++ HTML | CSS 
 + Git | VSCode | Heroku 
 + Three.js
 
